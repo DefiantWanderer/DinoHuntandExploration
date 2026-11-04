@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "Which of these is a fruit?",
+    "options": ["Carrot", "Tomato", "Potato", "Onion"],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "What do bees make?",
+    "options": ["Milk", "Silk", "Honey", "Wax only"],
+    "answerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "Which colour do you get when you mix blue and yellow?",
+    "options": ["Green", "Purple", "Orange", "Brown"],
+    "answerIndex": 0
+  }
+]
