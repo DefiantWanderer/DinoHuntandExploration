@@ -1,10 +1,12 @@
 # Play & Win: starter project
 
-A blank app for the Ransack take-home. See the **candidate brief** for what to build and how to submit.
+A blank app for the Ransack take-home. See the **[client brief](client-brief.pdf)** for what to build.
+
+> **The data collection part of the brief is optional.** Get the games working first. If you have time, store the data however you like (e.g. `localStorage` or a free database) and explain your choice in your notes.
 
 ## Setup
 
-1. Click **Use this template → Create a new repository**. Make it **private**, then add the reviewer account from the brief under **Settings → Collaborators**. Please don't fork.
+1. Click **Use this template → Create a new repository**. Make it **private**, then add the reviewer account we gave you under **Settings → Collaborators**. Please don't fork.
 2. Clone your new repo and install [Node.js](https://nodejs.org) 20.19 or newer.
 3. In the project folder, run:
 
@@ -34,6 +36,7 @@ Use either option. Testing on a real phone is best if you can.
 ## What's inside
 
 ```
+client-brief.pdf         What the client wants
 public/bg.png            Background image
 src/main.js              App entry point (placeholder screen)
 src/style.css            Global styles
@@ -43,7 +46,7 @@ src/data/questions.json  The 5 quiz questions
 Each question has an `answerIndex`: the position of the correct option, counting from 0.
 
 ```json
-{ "question": "Which of these is a fruit?", "options": ["Carrot", "Tomato", "Potato", "Onion"], "answerIndex": 1 }
+{ "question": "Which of these is a fruit?", "options": ["Carrot", "Tomato"], "answerIndex": 1 }
 ```
 
 You can use any framework or library, as long as `npm install` and `npm run dev` work.
