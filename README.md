@@ -6,7 +6,7 @@ A blank app for the Ransack take-home. See the **[client brief](client-brief.pdf
 
 ## Setup
 
-1. Click **Use this template → Create a new repository**. Make it **private**, then add the reviewer account we gave you under **Settings → Collaborators**. Please don't fork.
+1. Click **Use this template → Create a new repository** and make it **public**. Please don't fork. Email us the link to your repo as soon as you've created it, so we can follow your progress.
 2. Clone your new repo and install [Node.js](https://nodejs.org) 20.19 or newer.
 3. In the project folder, run:
 
