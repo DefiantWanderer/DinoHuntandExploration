@@ -1,32 +1,37 @@
 [
   {
     "id": 1,
-    "question": "Which of these is a fruit?",
-    "options": ["Carrot", "Tomato"],
-    "answerIndex": 1
+    "question": "What is the name of this building?",
+    "location": { "name": "Vidacity @ one-north", "lat": 1.29631, "lng": 103.78694 },
+    "options": ["Biopolis", "Vidacity (answer)", "Fusionopolis", "Galaxis"],
+    "fact": "Did you know this building is 70 years old?"
   },
   {
     "id": 2,
-    "question": "How many legs does a spider have?",
-    "options": ["8", "6"],
-    "answerIndex": 0
+    "question": "What vehicle is this hotel modeled after?",
+    "location": { "name": "TrainPod @ one-north", "lat": 1.29581, "lng": 103.78706 },
+    "options": ["Bus", "MRT (answer)", "Aeroplane", "Ferry"],
+    "fact": "You can book this hotel and stay in an awesome train"
   },
   {
     "id": 3,
-    "question": "Which planet is closest to the Sun?",
-    "options": ["Venus", "Mercury"],
-    "answerIndex": 1
+    "question": "What is the name of this park?",
+    "location": { "name": "Nepal Park", "lat": 1.30194, "lng": 103.78856 },
+    "options": ["Nepal Park (answer)", "Kent Ridge Park", "Labrador Park", "Telok Blangah Hill Park"],
+    "fact": "Nepal Park were developed by the British in the early 1950s to house officers and their families. The area was given conservation status on 24 March 2010."
   },
   {
     "id": 4,
-    "question": "What do bees make?",
-    "options": ["Honey", "Milk"],
-    "answerIndex": 0
+    "question": "If my favourite food is Mediterranean, which stall would I buy from?",
+    "location": { "name": "Timbre @ one-north", "lat": 1.29731, "lng": 103.78744 },
+    "options": ["Kebabs Faktory (answer)", "Ramen House", "Taco Town", "Dim Sum Delight"],
+    "fact": "My favourite food is kebabs"
   },
   {
     "id": 5,
-    "question": "Which colour do you get when you mix blue and yellow?",
-    "options": ["Purple", "Green"],
-    "answerIndex": 1
+    "question": "How much is a pen sold here?",
+    "location": { "name": "QuickPick", "lat": 1.29594, "lng": 103.78656 },
+    "options": ["$1.20", "$2.40 (answer)", "$3.60", "$5.00"],
+    "fact": "The pen is mightier than the sword"
   }
 ]
