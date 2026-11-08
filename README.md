@@ -56,7 +56,16 @@ You can use any framework or library, as long as `npm install` and `npm run dev`
 Replace this section before you submit.
 
 - **What I prioritised, and why:**
+  Prioritised the AR to minimally show how it works
+  Prioritised getting the main functionality of the quiz and location tracking to work
+  Prioritsed having spatial audio to know where the dinosaur is
 - **What I left out or didn't finish, and why:**
+  I left out adding custom button designs to make it look nicer, not necessary for prototype only for polishing
+  I left out hand drawing dinosaurs as this is a prototype, not necessary for prototype only for polishing
+  I left out adding proper path finding of the lines on the map. Currently its a straight line instead of following the road. Again not necessary for prototype only for polishing
 - **Time planned vs. time spent:**
+  Time planned 1hr on creating the framework and another hours on coding and AI prompting. Spent an hour testing and making adjustments by playtesting
 - **How I used AI** (and one suggestion I changed or didn't use):
+  I used claude to generate the code for the hunt and exploration. I changed the audio to be something more suitable.
 - **Anything I'm unsure about:**
+  nil
